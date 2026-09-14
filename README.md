@@ -1,2 +1,3 @@
 # Intro-project
-intro project
+ explains 
+ pull and push
